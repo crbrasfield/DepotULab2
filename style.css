@@ -1,0 +1,128 @@
+.border-top {
+  border-top: solid gray 2px;
+}
+.border-bottom {
+  border-bottom: solid #a4c5cf 2px;
+}
+.navbar {
+  background-color: #a4c5cf;
+  height: 55px;
+  text-align: center;
+  padding: 25px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+.navbar a:hover,
+.navbar a:focus {
+  color: orange;
+}
+.navbar li {
+  display: inline;
+  text-decoration: none;
+  margin: 20px;
+}
+a:hover {
+  color: Orange;
+}
+h1 {
+  text-align: center;
+  margin: 0px;
+}
+h2 {
+  text-align: center;
+  border-bottom: solid #a4c5cf 2px;
+  border-top: solid gray 2px;
+  padding: 2px;
+  clear: both;
+}
+h3 {
+  text-align: center;
+  margin: 0px;
+}
+.left {
+  float: left;
+  margin-left: 190px;
+  max-width: 950px;
+}
+.right {
+  margin-right: 190px;
+  float: right;
+  max-width: 750px;
+}
+.about {
+  margin-top: 145px;
+}
+.about p {
+  width: 300px;
+  margin-bottom: 50px;
+}
+.skills p {
+  width: 300px;
+  margin-bottom: 50px;
+}
+.blue {
+  color: #a4c5cf;
+  font-style: italic;
+}
+.contact-form {
+  margin: auto;
+  background-color: #a4c5cf;
+  width: 300px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  padding-left: 110px;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+h4 {
+  margin: 0px;
+}
+.projects p {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.experience {
+  margin: 0px;
+}
+.experience p {
+  margin-left: 190px;
+}
+.education p {
+  margin-left: 190px;
+}
+h5 {
+  margin: 0px;
+  margin-left: 190px;
+}
+p {
+  margin: 0px;
+}
+.footer {
+  border-top: solid #a4c5cf 2px;
+  text-align: center;
+  width: 750px;
+  margin: auto;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+.footer p {
+  display: inline;
+  color: #a4c5cf;
+}
+.footer a {
+  color: #a4c5cf;
+  text-decoration: none;
+  margin: 20px;
+  display: inline;
+}
+.footer a:hover {
+  color: orange;
+}
